@@ -1,0 +1,48 @@
+*
+{
+    text-align: center;
+    font-family: "romain_reguRgText";
+}
+
+.navbar
+{
+    position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+}
+
+h2,h3,h5,h6
+{
+    text-decoration: underline;
+}
+
+h2,h3
+{
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.paragraphestyle
+{
+    font-family: "romain_reguRgText";
+}
+
+p
+{
+    font-size: 18px;
+}
+
+footer
+{
+background: black;
+color: white;
+}
+
+.align
+{
+    padding-top: 120px;
+    padding-bottom: 50px;
+    
+}

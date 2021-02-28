@@ -1,0 +1,11 @@
+#list_parcel
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+#name
+{
+    text-align: right;
+}

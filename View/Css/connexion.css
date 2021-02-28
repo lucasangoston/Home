@@ -1,0 +1,35 @@
+input
+{
+   border-radius: 10px 10px 10px 10px;
+   size: 20px;
+}
+
+ul{
+    display: flex;
+    justify-content:space-around;
+}
+
+.center
+{
+    padding-top: 20%;
+}
+
+.paragraphe
+{
+    font-size: 13px;
+}
+
+a
+{
+    color:blue;
+}
+
+h4
+{
+    text-decoration: underline;
+}
+
+.align
+{
+    padding-top: 150px;
+}
